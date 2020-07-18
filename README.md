@@ -1,6 +1,6 @@
 # ABCVehicleShowroom
 
-It's a simple JAVA based project where you can add, remove, veiw vehicles you have added etc.
+It's a simple JAVA based command line project where you can add, remove, veiw vehicles you have added etc.
 
 Currently you can add three types of vehicles such as normal, sports and heavy. After selecting the car you want to add it will take you through some procedure such as adding cars model no, engine type, engine power etc.
 
